@@ -1,7 +1,3 @@
-//For test why this doesn't work 
-
-require('dotenv').config();
-console.log("MONGO_URI:", process.env.MONGO_URI);
 
 
 const prompt = require('prompt-sync')();
